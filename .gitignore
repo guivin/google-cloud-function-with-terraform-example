@@ -1,0 +1,6 @@
+*.iml
+*.tfstate
+.idea/
+.terraform/
+.node_modules/
+
